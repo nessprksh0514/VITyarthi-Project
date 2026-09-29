@@ -28,7 +28,7 @@ Per the course criteria, the application is divided into three distinct function
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/nessprksh0514/VITYarthi-Project.git
    ```
 2. Navigate into the project root folder:
    ```bash
